@@ -1,2 +1,3 @@
 # odin-recipes
 Final html assignment from TOP Foundations course
+This assignment will require the use of command-line (bash) with git commands, GitHub for version control and project management, and a text editor (VSCode) to create and edit html files for the creation of a 'recipes' website. The site will demonstrate the use of multiple basic elements and tags and their associated attributes (e.g. boilerplate elements, headers, ordered and unordered lists, etc.) as well as hyperlinks and images. Commits should (will?) happen early and often via git commands in the terminal (e.g. git add, commit, push). The repo has been created and cloned to the local machine (Jeff's mundanely-named PC). With a full heart and empty index.html, the project begins. 
